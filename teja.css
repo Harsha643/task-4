@@ -1,0 +1,49 @@
+.container{
+    width: 500px;
+    /* height: 500px; */
+    border-width: 2px;
+    border-style: solid;
+
+}
+.hearder{
+    height: 150px;
+    border-style: solid;
+    border-width: 2px;
+
+margin: 10px;
+
+}
+.a1{
+    width: 130px;
+    height: 130px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.b1{
+    width: 300px;
+    height: 300px;
+    border-style:solid;
+    border-width:2px ;
+    margin: 10px;
+    display: inline-block;
+}
+.b2{
+    width: 148px;
+    height: 300px;
+    border-style:solid;
+    border-width:2px ;
+    margin: 10px;
+    display: inline-block;
+}
+  
+.footer{
+
+    height: 180px;
+    border-style: solid;
+    border-width:2px;
+    margin: 10px;
+
+}
